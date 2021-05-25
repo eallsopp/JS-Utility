@@ -1,2 +1,2 @@
 # JS-Utility
-A utility library for use with various JS object as a short project
+A utility library for use with various JS objects as a small morning project
